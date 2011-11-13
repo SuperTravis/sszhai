@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the sszhai feature.
+ */
+
+include_once('sszhai.features.inc');
